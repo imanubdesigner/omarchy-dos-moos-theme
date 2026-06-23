@@ -1,0 +1,31 @@
+# Palette A-custom · Muted Sage  (final-ish)
+# BG #131516 · Surface #1C1C1A · Ash Gray #A5B5AB · Linen #F8EBE3
+# Accent 1 Arylide #F4E276 · Accent 2 Cambridge #819890 (from C) · Red #F0334A (alert)
+[colors]
+[colors.primary]
+background = "#131516"
+foreground = "#F8EBE3"
+
+[colors.normal]
+black   = "#131516"
+red     = "#F0334A"
+green   = "#819890"
+yellow  = "#F4E276"
+blue    = "#A5B5AB"
+magenta = "#72856C"
+cyan    = "#819890"
+white   = "#A5B5AB"
+
+[colors.bright]
+black   = "#3A4849"
+red     = "#F0334A"
+green   = "#A5B5AB"
+yellow  = "#F4E276"
+blue    = "#A5B5AB"
+magenta = "#819890"
+cyan    = "#A5B5AB"
+white   = "#F8EBE3"
+
+[colors.cursor]
+text   = "#131516"
+cursor = "#F4E276"

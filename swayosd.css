@@ -1,0 +1,17 @@
+@define-color background-color rgba(19, 21, 22, 0.90);
+@define-color border-color #A5B5AB;
+@define-color label #F8EBE3;
+@define-color image #F8EBE3;
+@define-color progress #819890;
+
+/* ~/.config/swayosd/style.css @imports this file (border-radius:0 / opacity:0.97 / border:2px).
+   Override so the OSD matches hyprland: radius 4, 1px Ash-Gray border, translucent. */
+window {
+  border-radius: 4px !important;
+  border: 1px solid @border-color !important;
+  opacity: 1 !important;
+}
+
+progressbar {
+  border-radius: 4px !important;
+}
