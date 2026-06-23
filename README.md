@@ -13,8 +13,8 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-dos-moos-theme.gi
 
 <img width="2560" height="1440" alt="dos-moos preview" src="preview.png" />
 
-#### Waybar
-[LINK](https://github.com/HANCORE-linux/waybar-themes)
+#### Quickshell-Bar
+[LINK](https://github.com/HANCORE-linux/quickshell-dots)
 
 #### Theme-Hook-Manager
 [Link](https://github.com/OldJobobo/theme-hook-plugin-manager)
