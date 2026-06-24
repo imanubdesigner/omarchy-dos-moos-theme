@@ -1,7 +1,7 @@
 {
-    "name": "theme-aether",
-    "displayName": "Aether Theme",
-    "description": "Aether color theme",
+    "name": "theme-dos-moos",
+    "displayName": "Dos-Moos Theme",
+    "description": "Dos-Moos color theme",
     "publisher": "local",
     "version": "1.0.0",
     "engines": {
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aether",
+                "label": "Dos-Moos",
                 "uiTheme": "vs-dark",
-                "path": "./themes/aether-color-theme.json"
+                "path": "./themes/dos-moos-color-theme.json"
             }
         ]
     }
