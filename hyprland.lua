@@ -40,3 +40,11 @@ hl.window_rule({
     class = "^(imv|mpv|vlc|org.gnome.NautilusPreviewer|org.gnome.Evince|com.gabm.satty|zoom|org.kde.kdenlive|com.obsproject.Studio|com.github.PintaProject.Pinta)$",
   },
 })
+
+-- GTK apps (color/content-critical): force fully opaque.
+hl.window_rule({
+  opacity = "1.0 override 1.0 override",
+  match = {
+    class = "^(gimp|com.github.xournalpp.xournalpp|nwg-look|system-config-printer)$",
+  },
+})
